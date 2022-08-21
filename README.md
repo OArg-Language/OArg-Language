@@ -1,4 +1,4 @@
-# Official Github of @SPWD Language!   
+# Official Github of @SATO Language!   
 A Fast and Flexible Language With An Intutive Syntax.
 If You Don't Have Much Time to Learn More Than One Language, but You Want To Realise Your Projects, SPWD Is The Solution! One Language, Infinite Possibilities!
 
